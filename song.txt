@@ -38,3 +38,5 @@
 Осень вечно права
 
 Add line for new commit #1
+
+Add line for new commit #2
